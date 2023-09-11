@@ -1,0 +1,29 @@
+body {
+  background-color: rgb(247, 235, 235);
+  text-align: center;
+}
+img {
+  width: 350px;
+  height: 300px;
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+}
+.two {
+  display: flex;
+  justify-content: space-around;
+}
+.three {
+  display: flex;
+  justify-content: space-around;
+}
+.four {
+  display: flex;
+  justify-content: space-around;
+}
+.five {
+  display: flex;
+  justify-content: space-around;
+}

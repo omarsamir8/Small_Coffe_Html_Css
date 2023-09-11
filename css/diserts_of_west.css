@@ -1,0 +1,21 @@
+body {
+  text-align: center;
+  background-color: rgb(247, 235, 235);
+}
+img {
+  width: 350px;
+  height: 300px;
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+}
+div {
+  display: flex;
+  justify-content: space-around;
+}
+b {
+  font-size: 20px;
+  background-color: bisque;
+}
